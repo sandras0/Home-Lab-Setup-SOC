@@ -1,1 +1,1 @@
-# Home-Lab-Setup-SOC
+# Home-Lab-Setup-SOC With Splunk
